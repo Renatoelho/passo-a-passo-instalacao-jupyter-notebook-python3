@@ -2,18 +2,18 @@
 
 ### Requisitos mínimos para instalação:
 
-> Sistema operacional Linux (esse passo a passo foi feito no Ubuntu 20.04.2 LTS)  <br/>Memória RAM de 4GB ou mais.
+> Sistema operacional Linux (esse passo a passo foi feito no Ubuntu 20.04.2 LTS)  <br/>Memória RAM de 4GB ou mais
 
 ## **1º Passo** - Instalação do Python3
 
-Atualize o ambiente antes de iniciar o processo com os seguintes comandos:
+- Atualize o ambiente antes de iniciar o processo com os seguintes comandos:
 
 ````
 $ sudo apt update
 $ sudo apt upgrade -y
 ````
 
-Verifique se o Python3 está instalado e qual é sua versão executando o seguinte comando:
+- Verifique se o Python3 está instalado e qual é sua versão executando o seguinte comando:
 
 ````
 $ python3 -V
@@ -21,7 +21,7 @@ $ python3 -V
 
 ![Versão Python 3](https://drive.google.com/uc?export=view&id=1zq6YUCBXtRmzShJApmjxTIObJZLW3dI4)
 
-Caso o Python3 não esteja instalado é só usar o seguinte comando:
+- Caso o Python3 não esteja instalado é só usar o seguinte comando:
 
 ````
 $ sudo apt install python3.8 -y
@@ -103,4 +103,4 @@ $ jupyter notebook
 
 >> **Observação:** Após a execução do comando ````jupyter notebook```` vai abrir a IDE pelo navegador que estiver definido com padrão no seu computador, caso ele não abra acesse pela url: [localhost:8888/tree](http://localhost:8888/tree). Lembre-se de sempre ativar o ambiente virtual do Python que você vai executar o Jupyter.  
 
-<font size="2"> **Referências:**  <br/>Python.org, **Beginner's Guide to Python.** Disponível em: <https://wiki.python.org/moin/BeginnersGuide>. Acesso em: 12 nov. 2021.  <br/>Python.org, **venv - Criação de ambientes virtuais.** Disponível em: <https://docs.python.org/pt-br/3/library/venv.html>. Acesso em: 12 nov. 2021.  <br/>Python.org, **Instalando Módulos Python.** Disponível em: <https://docs.python.org/pt-br/3/installing/index.html#install-pip-in-versions-of-python-prior-to-python-3-4>. Acesso em: 12 nov. 2021.  <br/>Jupyter, **Installing the classic Jupyter Notebook interface.** Disponível em: <https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html>. Acesso em: 12 nov. 2021.  <br/></font>
+> **Referências:**  <br/><font size="2">Python.org, **Beginner's Guide to Python.** Disponível em: <https://wiki.python.org/moin/BeginnersGuide>. Acesso em: 12 nov. 2021.  <br/>Python.org, **venv - Criação de ambientes virtuais.** Disponível em: <https://docs.python.org/pt-br/3/library/venv.html>. Acesso em: 12 nov. 2021.  <br/>Python.org, **Instalando Módulos Python.** Disponível em: <https://docs.python.org/pt-br/3/installing/index.html#install-pip-in-versions-of-python-prior-to-python-3-4>. Acesso em: 12 nov. 2021.  <br/>Jupyter, **Installing the classic Jupyter Notebook interface.** Disponível em: <https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html>. Acesso em: 12 nov. 2021.  <br/></font>
