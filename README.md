@@ -101,6 +101,6 @@ jupyter notebook
 
 ![Execução Jupyter Notebook](https://drive.google.com/uc?export=view&id=1zxX2X8rWP91At4ede5JTbkUYczTPPpsa)
 
->> **Observação:** Após a execução do comando ````jupyter notebook```` vai abrir a IDE pelo navegador que estiver definido com padrão no seu computador, caso ele não abra acesse pela url: [localhost:8888/tree](http://localhost:8888/tree). Lembre-se de sempre ativar o ambiente virtual do Python que você vai executar o Jupyter.  
+>> **Observação:** Após a execução do comando ````jupyter notebook```` abrirá a IDE pelo navegador que estiver definido como padrão no seu computador. Caso ele não abra, acesse pela url: [localhost:8888/tree](http://localhost:8888/tree). Lembre-se de sempre ativar o ambiente virtual do Python que você vai executar o Jupyter.  
 
 > **Referências:**  <br/><font size="1">Python.org, **Beginner's Guide to Python.** Disponível em: <https://wiki.python.org/moin/BeginnersGuide>. Acesso em: 12 nov. 2021.  <br/>Python.org, **venv - Criação de ambientes virtuais.** Disponível em: <https://docs.python.org/pt-br/3/library/venv.html>. Acesso em: 12 nov. 2021.  <br/>Python.org, **Instalando Módulos Python.** Disponível em: <https://docs.python.org/pt-br/3/installing/index.html#install-pip-in-versions-of-python-prior-to-python-3-4>. Acesso em: 12 nov. 2021.  <br/>Jupyter, **Installing the classic Jupyter Notebook interface.** Disponível em: <https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html>. Acesso em: 12 nov. 2021.  <br/></font>
